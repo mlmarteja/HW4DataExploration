@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Data Exploration - Maryland State Department of Education Performance Dashboard Measures
+### Marian Marteja
 
-You can use the [editor on GitHub](https://github.com/mlmarteja/HW4DataExploration/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- What is the core discovery you made, the most interesting thing that you can describe with this data? 
+- What will your supporting arguments be for your discovery?
 
-### Markdown
+## Dataset
+The dataset is available: [here](https://github.com/mlmarteja/HW4DataExploration/blob/5cb275d47977365659d0337783c9f13e146dd499/vgsales.csv)
+The original dataset is from [The Maryland Open Data Portal](https://opendata.maryland.gov/Education/Choose-Maryland-Compare-Counties-Education/63pe-mygy)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Describe your data set, including a link to the data. 
+- This dataset is a comparison K-12 and higher education - enrollment, graduates, expenditures, institutions.
+- This dataset is provided by the Maryland Department of Commerce.
+- I am interested in the dataset because it is interesing how post highschool graduation affectes college education attainment.
 
-```markdown
-Syntax highlighted code block
+## Initial Questions
 
-# Header 1
-## Header 2
-### Header 3
+- What initially drew you to this data? 
+- What were you currious about? 
 
-- Bulleted
-- List
+    QUESTION 1
+    QUESTION 2
+    QUESTION 3
+  
+- What questions came up as you worked with the data? 
+- Was there anything that surprised you about the data?
+- Was it easy to work with or did you have to clean or "wrangle" the data?
 
-1. Numbered
-2. List
+## Discoveries & Insights
 
-**Bold** and _Italic_ and `Code` text
+Images should be large and easy to see and interperate. 
+Captions underneath should be 20-70 words long.
 
-[Link](url) and ![Image](src)
-```
+## Conclusion
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Final summary of the data and what you found during this project.
 
-### Jekyll Themes
+## Sources
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mlmarteja/HW4DataExploration/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Did any sources help you understand your data better? Make sure to cite them.
