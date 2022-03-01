@@ -1,28 +1,28 @@
-# Data Exploration - Maryland State Department of Education Performance Dashboard Measures
+# Data Exploration -Video Game Sales
 ### Marian Marteja
 
 ## Introduction
 
-- What is the core discovery you made, the most interesting thing that you can describe with this data? 
+- While looking at the data, I focued on one region, which is NA. While exploring the data, I found that Nintendo dominated video game sales. To support this claim, I have looked at different visualizations that illustrates the sales of the Nintendo game sales and console sales.
 - What will your supporting arguments be for your discovery?
 
 ## Dataset
 The dataset is available: [here](https://github.com/mlmarteja/HW4DataExploration/blob/5cb275d47977365659d0337783c9f13e146dd499/vgsales.csv)
-The original dataset is from [The Maryland Open Data Portal](https://opendata.maryland.gov/Education/Choose-Maryland-Compare-Counties-Education/63pe-mygy)
+The original dataset is from [Kagglel](https://www.kaggle.com/gregorut/videogamesales)
 
 Describe your data set, including a link to the data. 
-- This dataset is a comparison K-12 and higher education - enrollment, graduates, expenditures, institutions.
-- This dataset is provided by the Maryland Department of Commerce.
-- I am interested in the dataset because it is interesing how post highschool graduation affectes college education attainment.
+- This dataset is video game sales data. The dataset contains Rank, Name, Platfrom, Year, Genre, Publisher, North American Sales, Japan Sales, Other Sales, and Global Sales. 
+- This dataset is collected by Gregory Smith. This dataset is collected to compare game sales.(add more to this)
+- I am interested in the dataset because I have always been interested in videogames since I grew up playing it till this day. I chose the dataset because I wanted to see which Publishing company was timeless.(possibly change this or elaborate)
 
 ## Initial Questions
 
-- What initially drew you to this data? 
-- What were you currious about? 
+- Just like what I said under the data set section, I grew up around game and I wanted to see which is the most popular(change this)
+- When looking the the data, these were the initial questions that I came up with: 
 
-    QUESTION 1
-    QUESTION 2
-    QUESTION 3
+    * What regional sales from 2006-2013?
+    * QUESTION 2
+    * QUESTION 3
   
 - What questions came up as you worked with the data? 
 - Was there anything that surprised you about the data?
