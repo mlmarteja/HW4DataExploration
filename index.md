@@ -21,12 +21,12 @@ Describe your data set, including a link to the data.
 - When looking the the data, these were the initial questions that I came up with: 
 
     * What regional sales from 2006-2013?
-    * QUESTION 2
-    * QUESTION 3
+    * What were the sales of each game publisher?
+    * Which top 5 consoles were most used from 2006-2013?
   
 - What questions came up as you worked with the data? 
 - Was there anything that surprised you about the data?
-- Was it easy to work with or did you have to clean or "wrangle" the data?
+- While working with the data, I found that I didn't need to wangle the data. It was faily easy to work with it.
 
 ## Discoveries & Insights
 
