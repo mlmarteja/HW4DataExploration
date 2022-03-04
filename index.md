@@ -4,7 +4,7 @@
 ## Introduction
 
 - While looking at the data, I focued on one region, which is NA. While exploring the data, I found that Nintendo dominated video game sales. To support this claim, I have looked at different visualizations that illustrates the sales of the Nintendo game sales and console sales.
-- What will your supporting arguments be for your discovery?
+- To support this argument, I will provide illustrations of Nintendo's sales in games and consoles. 
 
 ## Dataset
 The dataset is available: [here](https://github.com/mlmarteja/HW4DataExploration/blob/5cb275d47977365659d0337783c9f13e146dd499/vgsales.csv)
