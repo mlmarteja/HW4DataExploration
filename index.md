@@ -26,7 +26,7 @@ Describe your data set, including a link to the data.
   
 - There were a two questions as I worked with the data. Firstly, I questioned whether I should focus on one region, and I did. Secondly, while working with the data, I found that Nintendo was dominating each graph. As a result, I questioned if that is true.
 - One thing that surpised me was while examining the graphs, I found that Nintendo was top of the charts except for their consoles. I was surpised because since Nintendo make the most sales in terms of games, they did not sell the most consoles.
-- While working with the data, I found that I didn't need to wangle the data. It was faily easy to work with it.
+- While working with the data, I found that it was a comma deilimited csv. In excel just select the option that it is a comma delimited csv and it will make it into a usable excell table. Just save the non-delimited table into a new Excel file and upload it into Tableau.
 
 ## Discoveries & Insights
 
